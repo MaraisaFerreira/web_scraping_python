@@ -1,5 +1,5 @@
-import requests  # p/ fz as req
-from bs4 import BeautifulSoup  # p/ manipular o HTML
+import requests
+from bs4 import BeautifulSoup
 from colored import fg, bg, attr
 
 url = 'https://shdo.wordpress.com/online/tabela-de-cores-rgb/'
